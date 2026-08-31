@@ -1,0 +1,9 @@
+PyQt5
+requests
+psutil
+python-snappy
+scapy
+googletrans==4.0.2
+protobuf
+libretranslatepy
+langdetect
